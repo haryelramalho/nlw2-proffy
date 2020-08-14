@@ -39,25 +39,6 @@ $ git clone https://github.com/haryelramalho/nlw2-proffy.git
 
 ### 💻 Running project on a web browser
 
-```bash
-# Go to project's web folder
-$ cd web/
-
-# Install dependencies
-$ yarn install or npm install
-
-# Run application
-$ yarn start or npm run start
-```
-
-Application located on http://localhost:3000/.
-
-### 📱 Running project on mobile
-
-To run the project on mobile you need a cellphone with the [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) app instaled or an android/ios emulator.
-
-After forking this repository and making a clone of it in your machine, run the following commands inside the project folder :
-
 #### Front-end
 
 ```bash
@@ -90,6 +71,12 @@ $ yarn:knex migrations
 ```
 
 API available to be tested on http://localhost:3333/
+
+### 📱 Running project on mobile
+
+To run the project on mobile you need a cellphone with the [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) app instaled or an android/ios emulator.
+
+After forking this repository and making a clone of it in your machine, run the following commands inside the project folder :
 
 # :closed_book: License
 
