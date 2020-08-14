@@ -75,8 +75,20 @@ API available to be tested on http://localhost:3333/
 ### 📱 Running project on mobile
 
 To run the project on mobile you need a cellphone with the [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) app instaled or an android/ios emulator.
+<br />
 
-After forking this repository and making a clone of it in your machine, run the following commands inside the project folder :
+```bash
+# Go to project's mobile folder
+$ cd mobile/
+
+# Install dependencies
+$ yarn install  or npm install
+
+# Run application
+$ yarn start or npm run start
+```
+
+<!--You can read the resulting QRCode with [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) or through an emulator.-->
 
 # :closed_book: License
 
