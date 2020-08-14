@@ -58,6 +58,8 @@ To run the project on mobile you need a cellphone with the [expo](https://play.g
 
 After forking this repository and making a clone of it in your machine, run the following commands inside the project folder :
 
+#### Front-end
+
 ```bash
 # Go to mobile folder
 $ cd mobile/
@@ -68,6 +70,26 @@ $ yarn install  or npm install
 # Run application
 $ yarn start or npm run start
 ```
+
+Front-end UX available at http://localhost:3000/
+
+#### Back-end
+
+```bash
+# Go to project's server folder
+$ cd server
+
+# Install dependencies
+$ yarn install or npm install
+
+# Run app
+$ yarn start or npm run start
+
+# Make migrations
+$ yarn:knex migrations
+```
+
+API available to be tested on http://localhost:3333/
 
 # :closed_book: License
 
