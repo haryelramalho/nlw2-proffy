@@ -2,9 +2,9 @@
     <img alt="Proffy" title="Proffy" src=".github/logo.svg" />
 </h1>
 
-<h3 align="center">
+<h4 align="center">
   An online study plataform that promises to connect students to teachers in any area of knowledge
-</h3>
+</h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/haryelramalho/"><img alt="Made by" src="https://img.shields.io/badge/made%20by-Haryel%20Gillet-%2315C3D6"></a>
