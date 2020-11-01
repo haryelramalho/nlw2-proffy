@@ -64,7 +64,7 @@ Import the `Insomnia.json` on Insomnia App or click on [Run in Insomnia](#insomn
 - [Expo](https://expo.io/)
 
 ```bash
-$ git clone https://github.com/haryelramalho/nlw2-proffy.git && cd nlw-3
+$ git clone https://github.com/haryelramalho/nlw2-proffy.git && cd nlw2-proffy
 ```
 
 **Follow the steps below**
